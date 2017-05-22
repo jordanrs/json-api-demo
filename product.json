@@ -4,27 +4,27 @@
 "title": "Awesome Watch",
 "price": "£99.99",
 "description": "This watch is so awesome.",
-"image": "http://i65.tinypic.com/2hovjiq.jpg"
+"image": "https://github.com/jordanrs/json-api-demo/blob/master/images/watch.jpg?raw=true"
 },
 {
 "id": 2,
 "title": "Ultimate Apple Package",
 "price": "£1999",
 "description": "Get a new mac book, iPhone and iPad for the bargain price of £1999",
-"image": "http://i64.tinypic.com/347xje8.jpg"
+"image": "https://github.com/jordanrs/json-api-demo/blob/master/images/apple.jpg?raw=true"
 },
   {
 "id": 3,
 "title": "Super Duper Flying Drone with Camera",
 "price": "£279.49",
 "description": "Not only does it fly, it has a camera too!",
-"image": "http://i66.tinypic.com/14bi5it.jpg"
+"image": "https://github.com/jordanrs/json-api-demo/blob/master/images/drone.jpeg?raw=true"
 },
   {
 "id": 4,
 "title": "Wall-E Desk Figure",
 "price": "£9.78",
 "description": "Everyoe Loves Wall-E, buy your figure now",
-"image": "http://i64.tinypic.com/28mgx7l.jpg"
+"image": "https://github.com/jordanrs/json-api-demo/blob/master/images/walle.jpeg?raw=true"
 }
 ]
