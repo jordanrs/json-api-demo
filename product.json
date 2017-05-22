@@ -1,0 +1,30 @@
+[
+{
+"id": 1,
+"title": "Awesome Watch",
+"price": "£99.99",
+"description": "This watch is so awesome.",
+"image": "http://i65.tinypic.com/2hovjiq.jpg"
+},
+{
+"id": 2,
+"title": "Ultimate Apple Package",
+"price": "£1999",
+"description": "Get a new mac book, iPhone and iPad for the bargain price of £1999",
+"image": "http://i64.tinypic.com/347xje8.jpg"
+},
+  {
+"id": 3,
+"title": "Super Duper Flying Drone with Camera",
+"price": "£279.49",
+"description": "Not only does it fly, it has a camera too!",
+"image": "http://i66.tinypic.com/14bi5it.jpg"
+},
+  {
+"id": 4,
+"title": "Wall-E Desk Figure",
+"price": "£9.78",
+"description": "Everyoe Loves Wall-E, buy your figure now",
+"image": "http://i64.tinypic.com/28mgx7l.jpg"
+}
+]
